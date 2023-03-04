@@ -73,29 +73,30 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "next",
-    icon: next,
+    name: "Node JS",
+    icon: nodejs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
+    {
+    name: "nest",
+    icon: nest,
   },
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "next",
+    icon: next,
   },
+
   {
     name: "MongoDB",
     icon: mongodb,
   },
-  
   {
-    name: "nest",
-    icon: nest,
+    name: "Redux Toolkit",
+    icon: redux,
   },
   {
     name: "vue",
